@@ -118,7 +118,7 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 
   return newRequire;
 })({"src/App.js":[function(require,module,exports) {
-alert("Hola desde Javascript");
+alert("Presiona OK si estas list@ para empezar con javascript");
 },{}],"src/index.js":[function(require,module,exports) {
 "use strict";
 
